@@ -12,3 +12,6 @@ gulp
 ```bash
 gulp --production
 ```
+
+node version: 4.2.2
+npm version: 2.14.7
