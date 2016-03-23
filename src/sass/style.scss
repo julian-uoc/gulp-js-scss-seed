@@ -1,0 +1,15 @@
+$font-stack:    Helvetica, sans-serif;
+$loading-color: red;
+$loaded-color: blue;
+
+body {
+  font: 100% $font-stack;
+}
+
+.loading {
+  color: $loading-color;
+}
+
+.loaded {
+  color: $loaded-color;
+}
